@@ -1,0 +1,3 @@
+- Provide some example prompts to get the user started
+- Display the amount of approval we have (percentage)
+- Add a disclaimer that data is not private until we add login support

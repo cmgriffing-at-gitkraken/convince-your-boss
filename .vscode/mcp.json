@@ -1,0 +1,9 @@
+{
+    "servers": {
+        "gitkraken": {
+            "type": "stdio",
+            "command": "gk",
+            "args": ["mcp"]
+        }
+    }
+}
